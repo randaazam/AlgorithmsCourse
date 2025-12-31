@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nader\\Desktop\\final inputtodo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nader\\Desktop\\final inputtodo\\inputtodoo.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inputtodoo.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nader\\Desktop\\final inputtodo\\styletodo2.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styletodo2.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nader\\Desktop\\final inputtodo\\todoscript.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:todoscript.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "todoscript.js",
+              "DocumentMoniker": "C:\\Users\\Nader\\Desktop\\final inputtodo\\todoscript.js",
+              "RelativeDocumentMoniker": "todoscript.js",
+              "ToolTip": "C:\\Users\\Nader\\Desktop\\final inputtodo\\todoscript.js",
+              "RelativeToolTip": "todoscript.js",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAuwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-22T15:57:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styletodo2.css",
+              "DocumentMoniker": "C:\\Users\\Nader\\Desktop\\final inputtodo\\styletodo2.css",
+              "RelativeDocumentMoniker": "styletodo2.css",
+              "ToolTip": "C:\\Users\\Nader\\Desktop\\final inputtodo\\styletodo2.css",
+              "RelativeToolTip": "styletodo2.css",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAuwGkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-22T15:57:16.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inputtodoo.html",
+              "DocumentMoniker": "C:\\Users\\Nader\\Desktop\\final inputtodo\\inputtodoo.html",
+              "RelativeDocumentMoniker": "inputtodoo.html",
+              "ToolTip": "C:\\Users\\Nader\\Desktop\\final inputtodo\\inputtodoo.html",
+              "RelativeToolTip": "inputtodoo.html",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-22T15:57:09.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
